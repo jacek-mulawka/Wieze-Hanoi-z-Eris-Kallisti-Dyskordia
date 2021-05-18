@@ -1,0 +1,10 @@
+Wie¿e Hanoi z Eris Kallisti Dyskordia
+wersja 2021.05.18.
+
+MIT License
+
+Copyright (c) 2021 Jacek Mulawka
+
+j.mulawka@interia.pl
+
+https://github.com/jacek-mulawka
