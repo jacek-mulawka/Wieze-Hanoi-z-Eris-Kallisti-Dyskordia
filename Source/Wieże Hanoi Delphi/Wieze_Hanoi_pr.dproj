@@ -55,7 +55,7 @@
         <UWP_DelphiLogo150>$(BDS)\bin\Artwork\Windows\UWP\delphi_UwpDefault_150.png</UWP_DelphiLogo150>
         <SanitizedProjectName>Wieze_Hanoi_pr</SanitizedProjectName>
         <VerInfo_Locale>1045</VerInfo_Locale>
-        <VerInfo_Keys>CompanyName=Jacek Mulawka;FileDescription=Wieże Hanoi z Eris Kallisti Dyskordia. MIT License.;FileVersion=1.0.0.0;InternalName=;LegalCopyright=Copyright (c) 2021 Jacek Mulawka;LegalTrademarks=;OriginalFilename=Wieże Hanoi z Eris Kallisti Dyskordia;ProgramID=com.embarcadero.$(MSBuildProjectName);ProductName=Wieże Hanoi z Eris Kallisti Dyskordia;ProductVersion=2021.5.18;Comments=j.mulawka@interia.pl https://github.com/jacek-mulawka</VerInfo_Keys>
+        <VerInfo_Keys>CompanyName=Jacek Mulawka;FileDescription=Wieże Hanoi z Eris Kallisti Dyskordia. MIT License.;FileVersion=1.0.0.0;InternalName=;LegalCopyright=Copyright (c) 2021 Jacek Mulawka;LegalTrademarks=;OriginalFilename=Wieże Hanoi z Eris Kallisti Dyskordia;ProgramID=com.embarcadero.$(MSBuildProjectName);ProductName=Wieże Hanoi z Eris Kallisti Dyskordia;ProductVersion=2021.7.5;Comments=j.mulawka@interia.pl https://github.com/jacek-mulawka</VerInfo_Keys>
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Base_Win32)'!=''">
