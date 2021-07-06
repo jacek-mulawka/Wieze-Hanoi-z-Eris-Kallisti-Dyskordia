@@ -19,7 +19,7 @@
       <UseVersionInfo Value="True"/>
       <MajorVersionNr Value="1"/>
       <Language Value="0415"/>
-      <StringTable Comments="j.mulawka@interia.pl https://github.com/jacek-mulawka" CompanyName="Jacek Mulawka" FileDescription="Wieże Hanoi z Eris Kallisti Dyskordia. MIT License." LegalCopyright="Copyright (c) 2021 Jacek Mulawka" OriginalFilename="Wieże Hanoi z Eris Kallisti Dyskordia" ProductName="Wieże Hanoi z Eris Kallisti Dyskordia" ProductVersion="2021.05.18"/>
+      <StringTable Comments="j.mulawka@interia.pl https://github.com/jacek-mulawka" CompanyName="Jacek Mulawka" FileDescription="Wieże Hanoi z Eris Kallisti Dyskordia. MIT License." LegalCopyright="Copyright (c) 2021 Jacek Mulawka" OriginalFilename="Wieże Hanoi z Eris Kallisti Dyskordia" ProductName="Wieże Hanoi z Eris Kallisti Dyskordia" ProductVersion="2021.07.05"/>
     </VersionInfo>
     <BuildModes Count="1">
       <Item1 Name="Default" Default="True"/>
