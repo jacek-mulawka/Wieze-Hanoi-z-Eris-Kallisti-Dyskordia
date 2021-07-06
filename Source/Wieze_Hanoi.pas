@@ -391,7 +391,7 @@ begin
   O_Programie_Label.WordWrap := true;
   O_Programie_Label.Caption :=
     'Wieże Hanoi z Eris Kallisti Dyskordia' + #13 +
-    'wersja 2021.05.18.' +
+    'wersja 2021.07.05.' +
     {$IFDEF delphi}
     ' [delphi]' +
     {$ENDIF}
@@ -1224,8 +1224,14 @@ begin
   if forma_glowna.BorderStyle <> bsNone then
     begin
 
-      forma_glowna.WindowState := wsMaximized;
       forma_glowna.BorderStyle := bsNone;
+
+      {$IFDEF delphi}
+      if forma_glowna.WindowState = wsMaximized then
+        forma_glowna.WindowState := wsNormal; // Zmaksymalizowane okno czasami nie zasłania paska start.
+      {$ENDIF}
+
+      forma_glowna.WindowState := wsMaximized;
 
       forma_glowna.BringToFront();
 
