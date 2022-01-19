@@ -1,11 +1,11 @@
 # Wieże-Hanoi-z-Eris-Kallisti-Dyskordia
 
 Gra logiczna oparta na zagadnieniu wież Hanoi. Zawiera funkcję demonstracyjną, która automatycznie próbuje rozwiązać zadanie.
-Projekt został skonstruowany w taki sposób aby można go było kompilować w Delphi i w Lazarusie co w pewnym zakresie obrazuje różnice i podobieństwa dostępnych w tych środowiskach języków programowania.
+Projekt został skonstruowany w taki sposób aby można go było kompilować w Delphi i w Lazarusie co w pewnym zakresie obrazuje różnice i podobieństwa dostępnych w tych środowiskach języków programowania. Gra zawiera uproszczone tłumaczenia na kilka wersji językowych.
 
 
 A puzzle game based on the problem of the towers of Hanoi. Includes a demonstration feature that automatically tries to solve a task.
-The project was constructed in such a way that it can be compiled in Delphi and Lazarus, which to some extent illustrates the differences and similarities of the programming languages available in these environments.
+The project was constructed in such a way that it can be compiled in Delphi and Lazarus, which to some extent illustrates the differences and similarities of the programming languages available in these environments. The game includes simplified translations into several language versions.
 
 
 <a href="https://github.com/jacek-mulawka/Wieze-Hanoi-z-Eris-Kallisti-Dyskordia/blob/main/Gallery/Wie%C5%BCe%20Hanoi%20z%20Eris%20Kallisti%20Dyskordia%2001.jpg">
