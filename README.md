@@ -4,6 +4,8 @@ Gra logiczna oparta na zagadnieniu wież Hanoi. Zawiera funkcję demonstracyjną
 Projekt został skonstruowany w taki sposób aby można go było kompilować w Delphi i w Lazarusie co w pewnym zakresie obrazuje różnice i podobieństwa dostępnych w tych środowiskach języków programowania. Gra zawiera uproszczone tłumaczenia na kilka wersji językowych.
 
 
+## English
+
 A puzzle game based on the problem of the towers of Hanoi. Includes a demonstration feature that automatically tries to solve a task.
 The project was constructed in such a way that it can be compiled in Delphi and Lazarus, which to some extent illustrates the differences and similarities of the programming languages available in these environments. The game includes simplified translations into several language versions.
 
